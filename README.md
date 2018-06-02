@@ -1,4 +1,9 @@
 # Intel_Data_Assistant_Faisal
-Faisal Mahmood's work
-Just created repository.
+INTELLIGENT DATA ASSISTANT
+
+SASK-Chatbot
+
+Panama CSV files Merger and partial crawler
+
+
 
