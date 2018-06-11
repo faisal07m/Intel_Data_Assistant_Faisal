@@ -1,0 +1,13 @@
+[ {
+  "area" : "891",
+  "city" : "Berlin",
+  "population" : "3500000"
+}, {
+  "area" : "105",
+  "city" : "Paris",
+  "population" : "2241346"
+}, {
+  "area" : "1572",
+  "city" : "London",
+  "population" : "8800000"
+} ]
